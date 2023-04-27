@@ -28,7 +28,7 @@ void insertionSort1(int n, vector<int> arr)
 
             for (int j = 0; j < n; j++)
             {
-                cout << arr[j];
+                cout << arr[j]<<" ";
             }
             cout << endl;
         }
@@ -38,7 +38,7 @@ void insertionSort1(int n, vector<int> arr)
 
             for (int j = 0; j < n; j++)
             {
-                cout << arr[j];
+                cout << arr[j]<<" ";
             }
             cout << endl;
             break;
